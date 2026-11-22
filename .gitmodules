@@ -1,0 +1,3 @@
+[submodule "submodule/frontend-api"]
+	path = submodule/frontend-api
+	url = https://github.com/EduOneProject/frontend-api.git
